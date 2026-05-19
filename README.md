@@ -14,7 +14,7 @@ Este proyecto se orienta principalmente en el agro colombiano y específicamente
 - [Especificaciones](#Especificaciones)
 - [Caracteristicas y beneficios](#Caracteristicas_y_beneficios)
 - [Documentación](#documentación)
-- [Contacto](#contacto)
+  
 
 
 
@@ -218,3 +218,26 @@ Función: Alimentar motores y sistema electrónico del robot.
 Aplicación del proyecto
 
 El robot está diseñado para la siembra de maíz en la zona rural del municipio de Zipaquirá, con el objetivo de apoyar a pequeños agricultores mediante tecnologías de automatización agrícola de bajo costo.
+
+
+## Caracteristicas_y_beneficios
+
+**Características** 
+
+•	Autonomía
+
+•	Sensores y cámaras
+
+•	GPS y mapeo 
+
+**Beneficios**   
+
+•	Eficiencia 
+
+•	Reducción de costos 
+
+•	Sostenibilidad 
+
+## Documentación
+
+Para más detalles, revisa la documentación completa en los siguientes archivos:
