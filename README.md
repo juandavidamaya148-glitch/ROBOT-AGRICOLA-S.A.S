@@ -242,4 +242,4 @@ El robot está diseñado para la siembra de maíz en la zona rural del municipio
 
 Para más detalles, revisa la documentación completa en los siguientes archivos:
 
-- [PLANTILLA ROBOT AGRICOLA - UNIVERSIDAD DE SANBUENAVENTURA]([https://github.com/cristianserrano770/proyecto-/blob/a83979136dc07284273ca1e0c1c8cfb2573ba4ea/proyecto%20robot%20agricola/documentos/Informe%20proyecto%20robot%20agricola%20sas.pdf](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/2c46bda83c4944159091c5d5e1f40de5b2b389b6/Proyecto%20de%20automatizaci%C3%B3n%20robot%20agricola%20sas%20presentacion.pdf))
+- [IDENTIDAD CORPORATIVA PARA EL   FORMATO COMERCIAL ROBOT AGRICOLA S.A.S](https://github.com/cristianserrano770/proyecto-/blob/71710b4f8b3547437ae3f98f1a5bf64b871dd03d/proyecto%20robot%20agricola/documentos/Proyecto%20de%20automatizaci%C3%B3n%20robot%20agricola%20sas%20presentacion.pdf)
