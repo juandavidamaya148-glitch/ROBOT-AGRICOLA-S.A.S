@@ -144,5 +144,6 @@ Durante el presente semestre, nuestra prioridad se centra en la elaboración de 
 ## Galería
 
 A continuación, se presentan algunas imágenes del proyecto en desarrollo:
-![Foto del robot en acción] 
-.(https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/204a47892d235eac38d925b6a3d710531c445ad9/WhatsApp%20Image%202026-05-18%20at%205.09.19%20PM.jpeg).
+
+![image alt]
+(https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/204a47892d235eac38d925b6a3d710531c445ad9/WhatsApp%20Image%202026-05-18%20at%205.09.19%20PM.jpeg)
