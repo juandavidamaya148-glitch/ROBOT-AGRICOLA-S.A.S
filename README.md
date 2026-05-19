@@ -159,3 +159,62 @@ A continuación, se presentan algunas imágenes del proyecto en desarrollo:
 ![image alt](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/a3b0acbbcec207b73d248cfdf008875b65674143/WhatsApp%20Image%202026-05-18%20at%205.09.24%20PM%20(2).jpeg)
 ![image alt](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/839a5e314dcb146aa83d10701650b79986b8104a/WhatsApp%20Image%202026-05-18%20at%205.09.24%20PM.jpeg)
 ![image alt](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/be47dc0c17605e896af1f1439ff2e77babc81594/WhatsApp%20Image%202026-05-18%20at%205.09.25%20PM.jpeg)
+
+## Especificaciones
+Estructura y chasis
+Material: PLA impreso en 3D
+
+Fabricación: Impresora 3D
+
+Función: Soportar todos los componentes electrónicos y mecánicos del robot.
+
+Características: Estructura ligera, resistente y de bajo costo para prototipos agrícolas.
+
+Sistema de movilidad
+
+Tipo: Orugas de tracción
+
+Material: Plástico y caucho comercial
+
+Características: Permiten desplazamiento estable en terrenos irregulares y rurales.
+
+Uso: Facilita el movimiento sobre tierra, barro y superficies agrícolas.
+
+Ruedas motrices
+
+Material: Plástico ABS
+
+
+Función: Transmitir el movimiento de los motores a las orugas.
+
+Sistema de siembra
+
+Material: PLA impreso en 3D
+
+Función: Depositar semillas de maíz de forma controlada durante el recorrido.
+
+Diseño: Compartimiento de almacenamiento y mecanismo de liberación de semillas.
+
+Motores
+
+Tipo: Motores DC con caja reductora
+
+Función: Proporcionar tracción y movimiento al robot agrícola.
+
+Sistema electrónico
+
+Microcontrolador: ESP32
+
+Sensores: Sensor ultrasónico para detección de obstáculos y GPS para ubicación.
+
+Comunicación: Bluetooth para monitoreo y control.
+
+Fuente de alimentación
+
+Tipo: Batería recargable
+
+Función: Alimentar motores y sistema electrónico del robot.
+
+Aplicación del proyecto
+
+El robot está diseñado para la siembra de maíz en la zona rural del municipio de Zipaquirá, con el objetivo de apoyar a pequeños agricultores mediante tecnologías de automatización agrícola de bajo costo.
