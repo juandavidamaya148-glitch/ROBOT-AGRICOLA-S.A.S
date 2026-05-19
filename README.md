@@ -154,7 +154,7 @@ A continuación, se presentan algunas imágenes del proyecto en desarrollo:
 ![image alt](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/007cd6d778d586fb1b5c40ba44431c03e5e30f36/WhatsApp%20Image%202026-05-18%20at%205.09.22%20PM.jpeg)
 ![image alt](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/9f397d5e39a36364aa08c7ed2610130d59abff07/WhatsApp%20Image%202026-05-18%20at%205.09.23%20PM%20(1).jpeg)
 ![image alt](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/84c7a19f88bf84998b32e5193cda1f9801c3ed4c/WhatsApp%20Image%202026-05-18%20at%205.09.23%20PM%20(2).jpeg)
-![image alt]
+![image alt](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/27b16fec3745679ff6bf165b687c26f41dd0f662/WhatsApp%20Image%202026-05-18%20at%205.09.23%20PM%20(3).jpeg)
 ![image alt]
 ![image alt]
 ![image alt]
