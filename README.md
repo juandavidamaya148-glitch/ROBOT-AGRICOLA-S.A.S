@@ -242,6 +242,6 @@ El robot está diseñado para la siembra de maíz en la zona rural del municipio
 
 Para más detalles, revisa la documentación completa en los siguientes archivos:
 
-- [IDENTIDAD CORPORATIVA PARA EL   FORMATO COMERCIAL ROBOT AGRICOLA S.A.S](https://github.com/cristianserrano770/proyecto-/blob/71710b4f8b3547437ae3f98f1a5bf64b871dd03d/proyecto%20robot%20agricola/documentos/Proyecto%20de%20automatizaci%C3%B3n%20robot%20agricola%20sas%20presentacion.pdf)
+- [ingles ROBOT AGRICOLA S.A.S](https://github.com/cristianserrano770/proyecto-/blob/71710b4f8b3547437ae3f98f1a5bf64b871dd03d/proyecto%20robot%20agricola/documentos/Proyecto%20de%20automatizaci%C3%B3n%20robot%20agricola%20sas%20presentacion.pdf)
 - [ESPECIFICACIONES TÉCNICAS - FORMATO DE PRESENTACIÓN ](https://github.com/cristianserrano770/proyecto-/blob/26c26520733b6d72ef08d65daee4ccaf9e7596cf/proyecto%20robot%20agricola/documentos/formato-presentacion-Proyecto%20robot%20agricola%20sas.pdf)
-- [PLANTILLA ROBOT AGRICOLA - UNIVERSIDAD DE SANBUENAVENTURA](https://github.com/cristianserrano770/proyecto-/blob/a83979136dc07284273ca1e0c1c8cfb2573ba4ea/proyecto%20robot%20agricola/documentos/Informe%20proyecto%20robot%20agricola%20sas.pdf)
+- [PLANTILLA ROBOT AGRICOLA - UNIVERSIDAD DE SANBUENAVENTURA](https://github.com/juandavidamaya148-glitch/ROBOT-AGRICOLA-S.A.S/blob/2d01bd3f11b60d81a8ccf65a9e5a21af53278102/ROBOT%20AGRICOLA%20(4).pdf)
